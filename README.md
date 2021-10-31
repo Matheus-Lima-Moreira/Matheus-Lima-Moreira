@@ -39,7 +39,7 @@
   
 ##   ❤️ Vamos nos conectar:
  <a href="https://www.facebook.com/people/Matheus-Lima/100007346672241" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
- <a href="https://https://www.instagram.com/Matts_z" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/Matts_z" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "https://twitter.com/Mattsz_06"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  <a href="https://open.spotify.com/user/hastadbr-br?si=00d85e8cfd624566" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   
