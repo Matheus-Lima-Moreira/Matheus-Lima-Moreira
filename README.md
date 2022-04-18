@@ -1,4 +1,4 @@
-# Olá eu sou o Matheus (●'◡'●)
+# Hi, i'm Matthew (●'◡'●)
 
 <!--
 **Matheus-Lima-Moreira/Matheus-Lima-Moreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,14 @@
 <div>
   <a href="https://github.com/Matheus-Lima-Moreira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Lima-Moreira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true"/>
- <!--
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Lima-Moreira&layout=compact&langs_count=7&theme=github_dark"/>
--->
-</div>
-  
+  </a>
+</div> 
+    
 <div style="display: inline_block">
   
-## 🛠️ Tecnologias e ferramentas que utilizo:
+## 🛠️ Technologies and tools I use:
   <img align="center" alt="Mattsz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Mattsz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mattsz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
