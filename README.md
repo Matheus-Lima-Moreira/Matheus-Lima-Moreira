@@ -16,8 +16,7 @@
   
   # Hi, i'm Matthew
   <a href="https://github.com/Matheus-Lima-Moreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Lima-Moreira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Lima-Moreira&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Lima-Moreira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Lima-Moreira&layout=compact&langs_count=7&theme=github_dark"/>
   </a>
   
 </div> 
