@@ -21,7 +21,7 @@
   <code><img title="AngularJs" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-plain.svg" height="42"></code>
 
 <h2> Environments I work with: </h2>
-  <code><img alt="GitHub" title="GitHub" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" height="42"></code>
+  <code><img alt="GitHub" title="GitHub" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="42"></code>
   <code><img alt="Git" title="Git" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" height="42"></code>
   <code><img alt="Vscode" title="Vscode" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" height="42"></code>
   <code><img height="42" title="Postgresql" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-plain.svg"></code>
