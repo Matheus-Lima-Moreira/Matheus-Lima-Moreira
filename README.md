@@ -10,19 +10,20 @@
 
 <h2> Languages/Frameworks I'm good at: </h2>
   <code><img height="42" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
+  <code><img height="42" title="React" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"></code>
   <code><img height="42" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"></code>
   <code><img height="42" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"></code>
-  <code><img height="42" title="Postgresql" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-plain.svg"></code>
   <code><img height="42" title="PHP" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg"></code>
   <code><img height="42" title="Python" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"></code>
   
 <h2> Languages/Frameworks I'm learning: </h2>
   <code><img title="TypeScript" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" height="42"></code>
-  <code><img height="42" title="React" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"></code>
+  <code><img title="AngularJs" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/angularjs/angularjs-plain.svg" height="42"></code>
 
 <h2> Environments I work with: </h2>
-  <code><img alt="GitHub" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" height="42"></code>
+  <code><img alt="GitHub" title="GitHub" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" height="42"></code>
   <code><img alt="Git" title="Git" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" height="42"></code>
   <code><img alt="Vscode" title="Vscode" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" height="42"></code>
+  <code><img height="42" title="Postgresql" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-plain.svg"></code>
 
 </div>
