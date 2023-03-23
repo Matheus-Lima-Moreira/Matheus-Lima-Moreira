@@ -10,11 +10,12 @@
 
 <h2> Languages/Frameworks i'm good at: </h2>
   <code><img height="42" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-  <code><img height="42" title="React" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"></code>
   <code><img height="42" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"></code>
   <code><img height="42" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"></code>
   <code><img height="42" title="PHP" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-plain.svg"></code>
   <code><img height="42" title="Python" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg"></code>
+  <code><img height="42" title="React" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg"></code>
+  <code><img height="42" title="Bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
   
 <h2> Languages/Frameworks i'm learning: </h2>
   <code><img title="TypeScript" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" height="42"></code>
