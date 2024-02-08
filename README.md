@@ -1,3 +1,5 @@
+![Header](./header.png)
+
 <div style="display: inline_block" align="center">
   <h1> Hi, i'm Matthew </h1>
   <img hight="170em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Lima-Moreira&theme=midnight-purple&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github"/>
@@ -24,3 +26,5 @@
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
+
+![Footer](./footer.png)
