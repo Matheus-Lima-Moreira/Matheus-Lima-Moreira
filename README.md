@@ -8,13 +8,13 @@
     
 <div style="display: inline_block" align="center">
   <h2> Languages/Frameworks i'm good at: </h2>
-  <img src="https://skillicons.dev/icons?i=js,ts,jquery,html,css,sass,bootstrap,tailwind,php,python,react,nodejs,angular,flutter,dart,firebase,prisma,go,redis" />
+  <img src="https://skillicons.dev/icons?i=js,ts,jquery,html,css,sass,bootstrap,tailwind,php,python,react,nodejs,angular,flutter,dart,firebase,prisma,go,redis,flask" />
   
   <h2> Languages/Frameworks i'm learning: </h2>
-  <img src="https://skillicons.dev/icons?i=cs,java,spring,godot,aws" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,godot,aws,electron" />
 
   <h2> Environments i work with: </h2>  
-  <img src="https://skillicons.dev/icons?i=git,postman,docker,kubernetes,github,linux,vscode,postgres,mysql,stackoverflow,figma,vite" />
+  <img src="https://skillicons.dev/icons?i=git,postman,docker,kubernetes,github,gitlab,linux,vscode,postgres,mysql,stackoverflow,figma,vite,ubuntu,discord" />
 </div>
 
 <br><br>
