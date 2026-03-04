@@ -14,7 +14,7 @@ In addition to my engineering skills, I am known for my kind and clear communica
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Lima-Moreira&hide_title=true&layout=compact&langs_count=8&theme=midnight-purple"/>  -->
 </div>
 
-<br><br>
+<br>
 
 <div style="display: inline_block" align="center">
   <h2> Languages/Frameworks i'm good at: </h2>
