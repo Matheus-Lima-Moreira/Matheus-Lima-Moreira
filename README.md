@@ -2,7 +2,10 @@
 
 <div style="display: inline_block" align="center">
   <h1> Hi, i'm Matthew </h1>
-  <img hight="170em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Lima-Moreira&theme=midnight-purple&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="170em" align="center" src="https://github-readme-stats.vercel.app/api?username=Matheus-Lima-Moreira&theme=midnight-purple" />
+  </a>
+  <!-- <img hight="170em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Lima-Moreira&theme=midnight-purple&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github"/> -->
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Lima-Moreira&hide_title=true&layout=compact&langs_count=8&theme=midnight-purple"/> 
 </div>
     
