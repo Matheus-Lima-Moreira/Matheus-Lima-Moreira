@@ -1,35 +1,32 @@
 ![Header](./header.png)
 
 <div style="display: inline_block" align="center">
-  <h1> Hi, i'm Matthew </h1>
-  <div>
-    Hello! :)
-I'm Matheus, a Backend Software Engineer Specialist with 4+ years of solid experience. I have hands-on expertise in TypeScript, Golang, Node.js, C#, Kafka, RabbitMQ, AWS, system design, monitoring, and documentation.
-
-Throughout my career, I have been consistently recognized for my strong organizational skills and for delivering robust and scalable solutions using microservices architecture, Domain-Driven Design (DDD), and event-driven systems. I have practical experience designing resilient services, implementing clean architectures, and ensuring high availability in distributed environments. Observability is also a key part of my work — I apply metrics, tracing, logging, and monitoring practices to guarantee reliability and fast issue resolution.
-
-In addition to my engineering skills, I am known for my kind and clear communication, fostering a supportive work environment.
+  <h1> Hi, I'm Matthew :)</h1>
+  <div align="justify">
+    &nbsp;&nbsp;&nbsp;&nbsp;I'm a Backend Software Engineer Specialist with 4+ years of solid experience. I have hands-on expertise in TypeScript, Golang, Node.js, C#, Kafka, RabbitMQ, AWS, system design, monitoring, and documentation. Throughout my career, I have been consistently recognized for my strong organizational skills and for delivering robust and scalable solutions using microservices architecture, Domain-Driven Design (DDD), and event-driven systems. I have practical experience designing resilient services, implementing clean architectures, and ensuring high availability in distributed environments. Observability is also a key part of my work — I apply metrics, tracing, logging, and monitoring practices to guarantee reliability and fast issue resolution. In addition to my engineering skills, I am known for my kind and clear communication, fostering a supportive work environment.
   </div>
   <!-- <img hight="170em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Lima-Moreira&theme=midnight-purple&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Lima-Moreira&hide_title=true&layout=compact&langs_count=8&theme=midnight-purple"/>  -->
 </div>
 
-<br>
+<br />
 
 <div style="display: inline_block" align="center">
-  <h2> Languages/Frameworks i'm good at: </h2>
-  <img src="https://skillicons.dev/icons?i=js,ts,jquery,html,css,sass,bootstrap,tailwind,php,python,react,nodejs,angular,flutter,dart,firebase,prisma,go,redis,flask,cs,dotnet" />
-  
-  <h2> Languages/Frameworks i'm learning: </h2>
-  <img src="https://skillicons.dev/icons?i=java,spring,godot,aws,electron" />
-
-  <h2> Environments i work with: </h2>  
-  <img src="https://skillicons.dev/icons?i=git,postman,docker,kubernetes,github,gitlab,linux,vscode,postgres,mysql,stackoverflow,figma,vite,ubuntu,discord" />
+  <h2> Environments I work with: </h2>  
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,docker,kubernetes,postgres,mysql,mongodb,linux,vscode,figma,discord,aws,gcp,redis,ts,nodejs,nestjs,react,angular,php,go,cs,dotnet&perline=10" />
 </div>
 
-<br><br>
+<br />
 
-<div align="right" style="display: inline-block">
+<div style="display: inline_block" align="center">
+  <h2> Things I'm learning: </h2>
+  <img src="https://skillicons.dev/icons?i=java,spring,godot,electron,azure,graphql" />
+</div>
+
+<br />
+
+<div style="display: inline_block" align="center">
+  <h2> Links: </h2>
   <a href="https://www.linkedin.com/in/matheus-lima-moreira" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
   <a href="https://matheus-lima-moreira.github.io/" target="_blank">
